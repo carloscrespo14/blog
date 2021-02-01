@@ -5,7 +5,7 @@ function App(props) {
 
     return (
 
-        <div>
+        <div className="ui container" style={{marginTop:'2em'}}>
 
             <PostList />
            
